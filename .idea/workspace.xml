@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2430b88b-40d5-4a81-a3bc-a3d4ab0cbd71" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/myfirtsBoot$AdapterPatterTestTest_testObjetAdapter.ic" NAME="AdapterPatterTestTest.testObjetAdapter Coverage Results" MODIFIED="1532374428778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.Test.AdapterPattertest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$PruebaTest_utilMethod.ic" NAME="PruebaTest.utilMethod Coverage Results" MODIFIED="1532357755787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$SocketsObjectAdapterImplTest_get120Volt.ic" NAME="SocketsObjectAdapterImplTest.get120Volt Coverage Results" MODIFIED="1532361714901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.Test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$Main.ic" NAME="Main Coverage Results" MODIFIED="1532119729160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$PruebaTest_calcularTes.ic" NAME="PruebaTest.calcularTes Coverage Results" MODIFIED="1532357440094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$VoltTest_getVolts.ic" NAME="VoltTest.getVolts Coverage Results" MODIFIED="1532359725761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.Test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$BuilderDemoTest.ic" NAME="BuilderDemoTest Coverage Results" MODIFIED="1532444232095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.Test.BuilderPatter.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$PruebaTest_imprimir.ic" NAME="PruebaTest.imprimir Coverage Results" MODIFIED="1532356400053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$PruebaTest_contarTest.ic" NAME="PruebaTest.contarTest Coverage Results" MODIFIED="1532123556763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/myfirtsBoot$SocketTest_getVolt.ic" NAME="SocketTest.getVolt Coverage Results" MODIFIED="1532360431294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alvaro.Test.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="CricketTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/CricketTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="21" selection-start-line="21" selection-end-line="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Cricket.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Cricket.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="18" selection-start-line="18" selection-end-line="18" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Fooball.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Fooball.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FooballTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/FooballTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TempaltePatterDemo.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/TempaltePatterDemo.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="20" selection-start-line="4" selection-start-column="7" selection-end-line="8" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TempaltePatterDemoTest.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/TempaltePatterDemoTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="29" selection-start-line="29" selection-end-line="29" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="TempaltePatterDemoTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/TempaltePatterDemoTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="405">
+                  <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/RedTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/AbstractFactoryPatter/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/SquareTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/FactoryProducerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/ColorFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AbstractFactoryPatter/ShapeFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/AdapterPattertest/AdapterPatterTestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/ChainResponsabilityPatter/Dollar10DispenserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/BuilderPatter/BuilderDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/BrokerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/BuyStockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/SellStockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/StockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/CommandPatterDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/FinalcialDepartamentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/CompositePatter/HeadDepartment.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/SalesDepartmentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/HeadDepartmentTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/CircleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/ShapeDecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/BridgePatter/LogitechRemoteControlTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/RedShapeDecoratorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/DecoratorPatterDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/DecoratorPatter/ShapeDecorator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/CommercialPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/DomesticPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/InstitucionalPlan.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/InstitucionalPlanTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/Plan.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/GetPlanFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/PlanTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/IteratorPatter/NameRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/IteratorPatter/NameRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/BinaryObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/HexaObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/OctalObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/ObserverPatter/Subject.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/SubjectTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/SingletonPatter/Institude.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/SingletonPatter/InstitudeTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperatioMultiplyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperationAddTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperationSubtractTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/StrategyPatterDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Cricket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/CricketTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Fooball.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/FooballTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/TempaltePatterDemoTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="myfirtsBoot" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="36" />
+    <option name="width" value="1263" />
+    <option name="height" value="762" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myfirtsBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirtsBoot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myfirtsBoot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirtsBoot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.alvaro.Test.TemplatePatter" />
+      <recent name="com.alvaro.Test.StrategyPatter" />
+      <recent name="com.alvaro.Test.DecoratorPatter" />
+      <recent name="com.alvaro.Test.CommandPattern" />
+      <recent name="com.alvaro.Test.ChainResponsabilityPatter" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.alvaro.Test.AdapterPattertest" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/alvaro/AdapterPatter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TempaltePatterDemoTest.mainTemplate">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CricketTest.endPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirtsBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvaro.Test.TemplatePatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alvaro.Test.TemplatePatter" />
+      <option name="MAIN_CLASS_NAME" value="com.alvaro.Test.TemplatePatter.CricketTest" />
+      <option name="METHOD_NAME" value="endPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FooballTest.endPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirtsBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvaro.Test.TemplatePatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alvaro.Test.TemplatePatter" />
+      <option name="MAIN_CLASS_NAME" value="com.alvaro.Test.TemplatePatter.FooballTest" />
+      <option name="METHOD_NAME" value="endPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FooballTest.initialized" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirtsBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvaro.Test.TemplatePatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alvaro.Test.TemplatePatter" />
+      <option name="MAIN_CLASS_NAME" value="com.alvaro.Test.TemplatePatter.FooballTest" />
+      <option name="METHOD_NAME" value="initialized" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="FooballTest.startPlay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirtsBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvaro.Test.TemplatePatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alvaro.Test.TemplatePatter" />
+      <option name="MAIN_CLASS_NAME" value="com.alvaro.Test.TemplatePatter.FooballTest" />
+      <option name="METHOD_NAME" value="startPlay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TempaltePatterDemoTest.mainTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myfirtsBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alvaro.Test.TemplatePatter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alvaro.Test.TemplatePatter" />
+      <option name="MAIN_CLASS_NAME" value="com.alvaro.Test.TemplatePatter.TempaltePatterDemoTest" />
+      <option name="METHOD_NAME" value="mainTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CricketTest.endPlay" />
+      <item itemvalue="JUnit.FooballTest.initialized" />
+      <item itemvalue="JUnit.FooballTest.endPlay" />
+      <item itemvalue="JUnit.FooballTest.startPlay" />
+      <item itemvalue="JUnit.TempaltePatterDemoTest.mainTemplate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TempaltePatterDemoTest.mainTemplate" />
+        <item itemvalue="JUnit.FooballTest.startPlay" />
+        <item itemvalue="JUnit.FooballTest.endPlay" />
+        <item itemvalue="JUnit.FooballTest.initialized" />
+        <item itemvalue="JUnit.CricketTest.endPlay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2430b88b-40d5-4a81-a3bc-a3d4ab0cbd71" name="Default" comment="" />
+      <created>1532113313049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532113313049</updated>
+      <workItem from="1532113315026" duration="2212000" />
+      <workItem from="1532115781925" duration="5047000" />
+      <workItem from="1532122178501" duration="2750000" />
+      <workItem from="1532350339014" duration="4840000" />
+      <workItem from="1532358798967" duration="17341000" />
+      <workItem from="1532435879929" duration="12576000" />
+      <workItem from="1532459104106" duration="11000000" />
+      <workItem from="1532523294992" duration="88000" />
+      <workItem from="1532523388182" duration="21590000" />
+      <workItem from="1532612329329" duration="4323000" />
+      <workItem from="1532616679371" duration="14352000" />
+      <workItem from="1532695518118" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StrategyPatterDemoTest_mainS - 2018.07.26 at 16h 29m 25s.xml">
+      <configuration name="StrategyPatterDemoTest.mainS" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyPatterDemoTest_mainA - 2018.07.26 at 16h 29m 28s.xml">
+      <configuration name="StrategyPatterDemoTest.mainA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StrategyPatterDemoTest_mainM - 2018.07.26 at 16h 29m 31s.xml">
+      <configuration name="StrategyPatterDemoTest.mainM" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CricketTest_initialized - 2018.07.26 at 16h 36m 35s.xml">
+      <configuration name="CricketTest.initialized" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CricketTest_startPlay - 2018.07.26 at 16h 36m 39s.xml">
+      <configuration name="CricketTest.startPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CricketTest_endPlay - 2018.07.26 at 16h 36m 42s.xml">
+      <configuration name="CricketTest.endPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FooballTest_initialized - 2018.07.26 at 16h 40m 17s.xml">
+      <configuration name="FooballTest.initialized" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FooballTest_endPlay - 2018.07.26 at 16h 40m 19s.xml">
+      <configuration name="FooballTest.endPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FooballTest_startPlay - 2018.07.26 at 16h 40m 22s.xml">
+      <configuration name="FooballTest.startPlay" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TempaltePatterDemoTest_mainTemplate - 2018.07.26 at 16h 48m 30s.xml">
+      <configuration name="TempaltePatterDemoTest.mainTemplate" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="96758000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="36" width="1263" height="762" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32866043" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32841933" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24064837" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2788162" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31695333" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49744898" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32087228" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" sideWeight="0.502551" side_tool="true" weight="0.453505" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.30996886" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22319202" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26824033" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49744898" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24064837" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32087228" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.502551" side_tool="true" weight="0.453505" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30996886" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32841933" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="32" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/BridgePatter/LogitechRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/BridgePatter/AbstractRemoteControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/CommercialPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/CommercialPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/DomesticPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/InstitucionalPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/Description.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/DiagramFactoryMethod.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/CircleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/DecoratorPatterDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/DecoratorPatter/RedShapeDecoratorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/FinalcialDepartamentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/HeadDepartmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/CompositePatter/SalesDepartmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/CommandPattern/BrokerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/BridgePatter/AbstractRemoteControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/BridgePatter/LogitechRemoteControlTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/InstitucionalPlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/GetPlanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/Plan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/FactoryMathodPatter/GenerateBill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/PlanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/FactoryMethodPatter/GetPlanFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="26" column="64" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/IteratorPatter/NameRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/IteratorPatter/IteratorPatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/IteratorPatter/NameRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/ObserverPatter/BinaryObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/BinaryObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/HexaObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/OctalObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/ObserverPatter/ObserverpatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="36" selection-start-line="6" selection-start-column="7" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/SingletonPatter/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/ObserverPatter/SubjectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/ObserverPatter/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/SingletonPatter/InstitudeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/SingletonPatter/Institude.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/StrategyPatter/OperatioMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperationAddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="41" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/StrategyPatter/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/StrategyPatterDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperatioMultiplyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/OperationSubtractTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/StrategyPatter/StrategyPatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/StrategyPatter/ContextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/CricketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Cricket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/Fooball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/alvaro/TemplatePatter/TempaltePatterDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" selection-start-line="4" selection-start-column="7" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/FooballTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/alvaro/Test/TemplatePatter/TempaltePatterDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mockito-1.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myfirtsBoot</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mockito-1.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>AdapterPatterTest.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">myfirtsBoot</a> &gt; <a href="index.source.html" class="el_package">com.alvaro.AdapterPatter</a> &gt; <span class="el_source">AdapterPatterTest.java</span></div><h1>AdapterPatterTest.java</h1><pre class="source lang-java linenums">package com.alvaro.AdapterPatter;
+
+<span class="fc" id="L3">public class AdapterPatterTest {</span>
+    public static void main(String [] arg){
+<span class="nc" id="L5">        AdapterPatterTest adapterPatterTest=new AdapterPatterTest();</span>
+<span class="nc" id="L6">        adapterPatterTest.testClassAdapter();</span>
+<span class="nc" id="L7">        adapterPatterTest.testObjetAdapter();</span>
+
+<span class="nc" id="L9">    }</span>
+    public  void testObjetAdapter(){
+<span class="fc" id="L11">        SocketAdapter socketAdapter =new SocketClassAdapterImpl();</span>
+<span class="fc" id="L12">        Volt v3 = getVolt(socketAdapter,3);</span>
+<span class="fc" id="L13">        Volt v12= getVolt(socketAdapter,12);</span>
+<span class="fc" id="L14">        Volt v120= getVolt(socketAdapter,120);</span>
+
+<span class="fc" id="L16">        System.out.print(&quot;v3 volts using Object Adapter=&quot;+v3.getVolts());</span>
+<span class="fc" id="L17">        System.out.print(&quot;v12 volts using Object Adapter=&quot;+v12.getVolts());</span>
+<span class="fc" id="L18">        System.out.print(&quot;v123 volts using Object Adapter=&quot;+v120.getVolts());</span>
+
+<span class="fc" id="L20">    }</span>
+
+    public  void testClassAdapter(){
+<span class="fc" id="L23">        SocketAdapter socketAdapter=new SocketClassAdapterImpl();</span>
+<span class="fc" id="L24">        Volt v3=getVolt(socketAdapter,3);</span>
+<span class="fc" id="L25">        Volt v12 = getVolt(socketAdapter,12);</span>
+<span class="fc" id="L26">        Volt v120 = getVolt(socketAdapter,120);</span>
+
+<span class="fc" id="L28">        System.out.print(&quot;v3 volts using Object Adapter=&quot;+v3.getVolts());</span>
+<span class="fc" id="L29">        System.out.print(&quot;v12 volts using Object Adapter=&quot;+v12.getVolts());</span>
+<span class="fc" id="L30">        System.out.print(&quot;v123 volts using Object Adapter=&quot;+v120.getVolts());</span>
+<span class="fc" id="L31">    }</span>
+    public  Volt getVolt(SocketAdapter socketAdapter, int i){
+
+<span class="fc bfc" id="L34" title="All 4 branches covered.">        switch (i){</span>
+<span class="fc" id="L35">            case 3:return socketAdapter.get3Volt();</span>
+<span class="fc" id="L36">            case 12:return socketAdapter.get12Volt();</span>
+<span class="fc" id="L37">            case 120:return socketAdapter.get120Volt();</span>
+<span class="fc" id="L38">            default: return socketAdapter.get120Volt();</span>
+        }
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.7.201606060606</span></div></body></html>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>SocketClassAdapterImpl.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">myfirtsBoot</a> &gt; <a href="index.source.html" class="el_package">com.alvaro.AdapterPatter</a> &gt; <span class="el_source">SocketClassAdapterImpl.java</span></div><h1>SocketClassAdapterImpl.java</h1><pre class="source lang-java linenums">package com.alvaro.AdapterPatter;
+
+<span class="fc" id="L3">public class SocketClassAdapterImpl extends Socket implements SocketAdapter{</span>
+
+    @Override
+    public Volt get120Volt() {
+<span class="fc" id="L7">        return getVolt();</span>
+    }
+
+    @Override
+    public Volt get12Volt() {
+<span class="fc" id="L12">        Volt v=getVolt();</span>
+<span class="fc" id="L13">        return convertVolt(v,10);</span>
+    }
+
+    @Override
+    public Volt get3Volt() {
+<span class="fc" id="L18">        Volt v=getVolt();</span>
+<span class="fc" id="L19">        return convertVolt(v,40);</span>
+    }
+  public Volt convertVolt(Volt v,int i){
+<span class="fc" id="L22">        return new Volt((v.getVolts()/i));</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.7.201606060606</span></div></body></html>
